@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		9D8582F52EA39F0700B2591B /* windows startup sound.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "windows startup sound.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D8582F52EA39F0700B2591B /* windows startup sound.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "windows startup sound.app"; path = "/Users/114-1iosclassstudent05/Desktop/windows startup sound/build/Debug-iphoneos/windows startup sound.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				9D8582F72EA39F0700B2591B /* windows startup sound */,
-				9D8582F62EA39F0700B2591B /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		9D8582F62EA39F0700B2591B /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				9D8582F52EA39F0700B2591B /* windows startup sound.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = 9D8582EC2EA39F0700B2591B;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 9D8582F62EA39F0700B2591B /* Products */;
+			productRefGroup = 9D8582EC2EA39F0700B2591B;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
